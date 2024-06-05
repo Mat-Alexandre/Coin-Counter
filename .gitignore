@@ -1,7 +1,13 @@
+# Training dataset
 images/test
 images/train
 images/valid
 
+# Training results
+runs
+
+# Virtual environment
 venv
 
+# Other files
 *.zip
