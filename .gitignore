@@ -1,0 +1,7 @@
+images/test
+images/train
+images/valid
+
+venv
+
+*.zip
